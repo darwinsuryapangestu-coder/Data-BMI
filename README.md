@@ -1,5 +1,5 @@
 # Data-BMI
-This is coding challenge from Jonas Schmedtmann class in Udemy
+Solution for Jonas Schmedmann's Java Script COding Challenge #1: Calculating BMI for two people and comparing result.
 
 //Data
 const massMark = 78;
